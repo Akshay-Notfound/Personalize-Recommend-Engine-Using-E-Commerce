@@ -119,6 +119,11 @@ For a deep dive into how the recommendation algorithms work (SVD, TF-IDF, Cold S
 * **Mobile Application**: React Native mobile app for iOS and Android.
 * **A/B Testing**: Framework to test different recommendation strategies.
 * **Containerization**: Docker support for easy deployment and scaling.
+* **Voice Search**: Voice-enabled product search for better accessibility.
+* **AR Try-On**: Augmented Reality feature for virtual product trials (fashion/accessories).
+* **Multi-language Support**: Internationalization (i18n) for global reach.
+* **Price Drop Alerts**: Automated notifications for wishlisted items.
+* **AI Chatbot**: Intelligent customer support assistant.
 
 ---
 
