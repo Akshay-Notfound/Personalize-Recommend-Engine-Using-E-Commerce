@@ -1,0 +1,3 @@
+Sklearn installed
+Models trained successfully.
+Recommender imported

@@ -1,0 +1,7 @@
+Starting debug...
+Importing flask...
+Error occurred:
+Traceback (most recent call last):
+  File "C:\FINAL YEAR PROJECTS\personalized recommend engine for e commerce\debug_app.py", line 8, in <module>
+    import flask
+ModuleNotFoundError: No module named 'flask'
