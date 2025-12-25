@@ -111,7 +111,18 @@ For a deep dive into how the recommendation algorithms work (SVD, TF-IDF, Cold S
 
 ---
 
-## 📸 Screenshots
+## � Future Enhancements
+
+* **Real-time Analytics Dashboard**: Admin panel to visualize user engagement and sales trends.
+* **Payment Gateway Integration**: Full integration with Stripe or Razorpay for actual transactions.
+* **Social Login**: Google and Facebook authentication options.
+* **Mobile Application**: React Native mobile app for iOS and Android.
+* **A/B Testing**: Framework to test different recommendation strategies.
+* **Containerization**: Docker support for easy deployment and scaling.
+
+---
+
+## �📸 Screenshots
 
 (Screenshots can be added here)
 
