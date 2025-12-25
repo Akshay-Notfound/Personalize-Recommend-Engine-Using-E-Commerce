@@ -129,7 +129,16 @@ For a deep dive into how the recommendation algorithms work (SVD, TF-IDF, Cold S
 
 ## �📸 Screenshots
 
-(Screenshots can be added here)
+<img width="1910" height="970" alt="image" src="https://github.com/user-attachments/assets/e13dd964-cd64-4a07-99b8-5b3588777e5a" />
+
+<img width="1919" height="857" alt="image" src="https://github.com/user-attachments/assets/5cfcf51f-ea85-4002-937c-2b9e71613ada" />
+
+<img width="489" height="343" alt="image" src="https://github.com/user-attachments/assets/e75dc35e-567b-4093-a2d7-a32f73dea8b4" />
+
+<img width="1734" height="868" alt="image" src="https://github.com/user-attachments/assets/47e396f8-3df9-4954-952f-a07ff35e61ce" />
+
+
+
 
 ## 📄 License
 
